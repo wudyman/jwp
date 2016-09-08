@@ -110,6 +110,7 @@ public class ConvertTextServlet extends HttpServlet {
 		    response.setCharacterEncoding("utf-8");
 		    PrintWriter out = response.getWriter();
 		    out.println(returnText);
+		    returnText="";
 	    }
 		catch(Exception e){
 			e.printStackTrace();

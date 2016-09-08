@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>
+<script src="js/jquery-3.1.0.min.js"></script>
+<!--<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>-->
 <title>Convert Page</title>
 </head>
 <body>
